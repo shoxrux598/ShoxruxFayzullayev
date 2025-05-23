@@ -22,9 +22,8 @@ I'm continuously learning and working to create modern, functional, and aestheti
 ## 📬 Contact:
 If you have any questions or want to collaborate, feel free to reach out:
 
-- ✉️ Email: yourname@example.com  
-- 🌐 Portfolio: [your-portfolio-link.com](https://your-portfolio-link.com)  
-- 🐱 GitHub: [github.com/yourusername](https://github.com/yourusername)  
+- ✉️ Email: fayzullayevshoxrux00@example.com  
+- 🐱 GitHub: [github.com/yourusername](https://github.com/shoxrux598)  
 
 ---
 
