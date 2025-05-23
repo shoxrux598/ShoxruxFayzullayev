@@ -11,10 +11,7 @@ Hello! I'm a frontend developer passionate about building clean, responsive, and
 
 ## 📁 Projects:
 This repository includes a collection of my frontend projects such as:
-- Responsive landing pages
 - Portfolio websites
-- Interactive JavaScript apps
-- Animated and modern web layouts
 
 ## 🎯 Goals:
 I'm continuously learning and working to create modern, functional, and aesthetically pleasing web experiences.
